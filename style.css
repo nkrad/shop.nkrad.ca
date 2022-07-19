@@ -27,28 +27,6 @@ a:hover {
   color: rgb(88, 168, 188);
 }
 
-img {
-  pointer-events: none
-}
-
-a h1:hover{
-  color: rgb(255, 0, 200);
-}
-
-.RRC {
-  color: rgb(166, 66, 66);
-}
-
-.ig-header{
+.header{
   text-align: center;
-}
-
-.ig-header p{
-  background-color: rgba(25, 24, 31, 0.15);
-  padding: 7.5px;
-  text-align: center;
-  display: inline-block;
-  font-size: 16px;
-  margin: 5px;
-  border-radius: 15px;
 }
